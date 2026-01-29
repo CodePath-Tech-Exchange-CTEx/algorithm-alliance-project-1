@@ -6,4 +6,7 @@ We will be deploying a website hopefully
 
 Caleb Ligon
 
-Kenneth Ye
+
+
+
+Brian Rivera Mendez
